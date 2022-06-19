@@ -8,3 +8,5 @@ description: General outline of program application deadline, travel dates, etc.
 
 Application deadline - 4/26
 
+Accepted Nomination - 6/9
+

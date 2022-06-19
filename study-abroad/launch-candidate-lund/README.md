@@ -2,13 +2,13 @@
 description: A proposed program to apply to
 ---
 
-# Lund
+# \[Launch Candidate] Lund
 
 ## Overview:
 
 Lund blends modern style and ancient heritage. Explore hip coffee houses, lush parks, and a striking medieval cathedral and discover a rich history tracing back to the Viking Age. Being a hub of technology, innovation, and entrepreneurship, Lund is a fantastic choice for a wide-range of academic pursuits. As the birthplace of innovations like the artificial kidney, Bluetooth, and the eco-friendly Tetra Pak carton, Lund University is an exciting place to study. Take classes in your major and access research opportunities in STEM fields. You can also join one of the nations, a student club that organizes social activities or try snowshoeing or skiing.
 
-![picture of Lund university - yes I am ADA compliant](../.gitbook/assets/image.png)
+![picture of Lund university - yes I am ADA compliant](../../.gitbook/assets/image.png)
 
 ### Housing
 
