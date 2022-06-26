@@ -15,3 +15,7 @@
 ## Class Planning
 
 * [Fall 2022](class-planning/fall-2022.md)
+
+## Misc Projects
+
+* [untitled](misc-projects/untitled.md)
