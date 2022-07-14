@@ -6,6 +6,10 @@ description: Lund launch candidate planning
 
 ### TOC
 
+{% content-ref url="food.md" %}
+[food.md](food.md)
+{% endcontent-ref %}
+
 {% content-ref url="git-init.md" %}
 [git-init.md](git-init.md)
 {% endcontent-ref %}

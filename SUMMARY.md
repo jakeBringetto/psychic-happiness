@@ -10,6 +10,7 @@
   * [README](study-abroad/launch-candidate-lund/readme.md)
   * [git init](study-abroad/launch-candidate-lund/git-init.md)
   * [Travel](study-abroad/launch-candidate-lund/travel.md)
+  * [Food](study-abroad/launch-candidate-lund/food.md)
 * [Pros and Cons](study-abroad/pros-and-cons.md)
 
 ## Class Planning
