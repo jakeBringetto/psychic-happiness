@@ -21,3 +21,7 @@ description: Lund launch candidate planning
 {% content-ref url="housing.md" %}
 [housing.md](housing.md)
 {% endcontent-ref %}
+
+{% content-ref url="courses.md" %}
+[courses.md](courses.md)
+{% endcontent-ref %}

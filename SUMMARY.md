@@ -9,6 +9,7 @@
 * [\[Launch Candidate\] Lund](study-abroad/launch-candidate-lund/README.md)
   * [README](study-abroad/launch-candidate-lund/readme.md)
   * [git init](study-abroad/launch-candidate-lund/git-init.md)
+  * [Courses](study-abroad/launch-candidate-lund/courses.md)
   * [Travel](study-abroad/launch-candidate-lund/travel.md)
   * [Housing](study-abroad/launch-candidate-lund/housing.md)
   * [Food](study-abroad/launch-candidate-lund/food.md)
