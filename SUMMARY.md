@@ -6,13 +6,13 @@
 
 * [Costs](study-abroad/costs.md)
 * [Timeline](study-abroad/timeline.md)
-* [\[Launch Candidate\] Lund](study-abroad/launch-candidate-lund/README.md)
-  * [README](study-abroad/launch-candidate-lund/readme.md)
-  * [git init](study-abroad/launch-candidate-lund/git-init.md)
-  * [Courses](study-abroad/launch-candidate-lund/courses.md)
-  * [Travel](study-abroad/launch-candidate-lund/travel.md)
-  * [Housing](study-abroad/launch-candidate-lund/housing.md)
-  * [Food](study-abroad/launch-candidate-lund/food.md)
+* [Lund](study-abroad/lund/README.md)
+  * [README](study-abroad/lund/readme.md)
+  * [git init](study-abroad/lund/git-init.md)
+  * [Courses](study-abroad/lund/courses.md)
+  * [Travel](study-abroad/lund/travel.md)
+  * [Housing](study-abroad/lund/housing.md)
+  * [Food](study-abroad/lund/food.md)
 * [Pros and Cons](study-abroad/pros-and-cons.md)
 
 ## Class Planning
