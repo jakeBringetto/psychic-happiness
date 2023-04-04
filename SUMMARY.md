@@ -18,6 +18,7 @@
 ## Class Planning
 
 * [Fall 2022](class-planning/fall-2022.md)
+* [Fall 2023](class-planning/fall-2023.md)
 
 ## Misc Projects
 
