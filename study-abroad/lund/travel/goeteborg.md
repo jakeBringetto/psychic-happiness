@@ -20,6 +20,13 @@ Transport from = Train Sunday 04/16 5:40 pm - 8:37 pm
 
 1:00 = arrive at hostel by train
 
+### Ideas
+
+* Volvo Museum
+* Universeum
+* Gothia Towers
+*
+
 
 
 
