@@ -14,6 +14,7 @@
     * [Göteborg](study-abroad/lund/travel/goeteborg.md)
   * [Housing](study-abroad/lund/housing.md)
   * [Food](study-abroad/lund/food.md)
+  * [Documentation](study-abroad/lund/documentation.md)
 * [Pros and Cons](study-abroad/pros-and-cons.md)
 
 ## Class Planning
