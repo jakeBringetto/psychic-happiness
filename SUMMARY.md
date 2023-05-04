@@ -12,6 +12,7 @@
   * [Courses](study-abroad/lund/courses.md)
   * [Travel](study-abroad/lund/travel.md)
     * [Göteborg](study-abroad/lund/travel/goeteborg.md)
+    * [June Plans](study-abroad/lund/travel/june-plans.md)
   * [Housing](study-abroad/lund/housing.md)
   * [Food](study-abroad/lund/food.md)
   * [Documentation](study-abroad/lund/documentation.md)
