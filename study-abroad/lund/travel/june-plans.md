@@ -44,6 +44,17 @@ description: type beat
 * Swisspass
   * 4 days = $257
 
+#### Tasks
+
+* [ ] Get swisspass + mountian pass
+* [ ] Book Zurich Hotel
+* [ ] Book Fluserberg Hotel
+* [ ] Book Interlakken Hotel
+* [ ] Flight to Switzerland
+* [ ] Flight to Sweden
+* [ ] Get bike tickets
+* [ ] Get toboggan tickets
+
 #### Arrival Info
 
 * Arrival: June 15&#x20;
@@ -65,6 +76,7 @@ description: type beat
 * Day 0
   * Train Zurich -> Flumserberg June 17
   * Check into Hotel
+    * [link](https://www.tripadvisor.com/Hotel\_Review-g658465-d2549872-Reviews-Hotel\_Mittenwald-Flumserberg\_Canton\_of\_St\_Gallen.html)
 * Day 1:
   * 8:15 - 4:45 MTB
 * Day 2:
