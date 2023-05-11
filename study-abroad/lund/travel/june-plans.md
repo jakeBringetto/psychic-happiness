@@ -22,6 +22,10 @@ description: type beat
 
 ### Italy
 
+#### To do
+
+* [x] Flight to Rome
+
 #### Arrival Info
 
 * Arrival in Rome
@@ -44,16 +48,16 @@ description: type beat
 * Swisspass
   * 4 days = $257
 
-#### Tasks
+#### To do
 
 * [ ] Get swisspass + mountian pass
 * [ ] Book Zurich Hotel
-* [ ] Book Fluserberg Hotel
+* [ ] Book Flumserberg Hotel
 * [ ] Book Interlakken Hotel
 * [ ] Flight to Switzerland
-* [ ] Flight to Sweden
 * [ ] Get bike tickets
 * [ ] Get toboggan tickets
+* [ ] Book Geneva Hotel
 
 #### Arrival Info
 
@@ -95,5 +99,19 @@ description: type beat
   * Train to Jungfraujoch
 * Day 2
   * Explore Interlakken
+  * Train to Geneva
+  * Hostel - [link](https://www.hostelworld.com/pwa/hosteldetails.php/Geneva-Hostel/Geneva/71161?from=2023-05-21\&to=2023-05-22\&guests=1)
+* Day 3
+  * Fly to Stockholm
+
+### Sweden
+
+#### To do
+
+* [ ] Flight to Stockholm - [link](https://www.skyscanner.com/transport/flights/gva/stoc/230622/config/12015-2306220610--32356-0-9547-2306220855?adultsv2=1\&cabinclass=economy\&childrenv2=\&inboundaltsenabled=false\&is\_banana\_refferal=true\&outboundaltsenabled=false\&preferdirects=false\&qp\_prevScreen=HOMEPAGE\&ref=home\&rtn=0)
 
 #### Departure Info
+
+#### To do
+
+* [ ] Flight home - [link](https://www.skyscanner.net/transport/flights/stoc/laxa/230628/config/9547-2306280705--31901-1-13416-2306281145?adultsv2=1\&cabinclass=economy\&childrenv2=\&inboundaltsenabled=false\&is\_banana\_refferal=true\&outboundaltsenabled=false\&preferdirects=false\&qp\_prevScreen=HOMEPAGE\&ref=home\&rtn=0)
