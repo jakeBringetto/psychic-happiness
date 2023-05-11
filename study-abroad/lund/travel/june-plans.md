@@ -68,6 +68,7 @@ description: type beat
 
 * Day 0:
   * Check into accommodation
+    * [link](https://www.hostelworld.com/pwa/hosteldetails.php/MEININGER-Z-rich-Greencity/Zurich/309422?from=2023-06-15\&to=2023-06-17\&guests=1)
 * Day 1:
   * Friday June 16
 
