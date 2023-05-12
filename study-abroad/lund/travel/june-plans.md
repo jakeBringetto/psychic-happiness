@@ -114,4 +114,4 @@ description: type beat
 
 #### To do
 
-* [ ] Flight home - [link](https://www.skyscanner.net/transport/flights/stoc/laxa/230628/config/9547-2306280705--31901-1-13416-2306281145?adultsv2=1\&cabinclass=economy\&childrenv2=\&inboundaltsenabled=false\&is\_banana\_refferal=true\&outboundaltsenabled=false\&preferdirects=false\&qp\_prevScreen=HOMEPAGE\&ref=home\&rtn=0)
+* [x] Flight home - [link](https://www.skyscanner.net/transport/flights/stoc/laxa/230628/config/9547-2306280705--31901-1-13416-2306281145?adultsv2=1\&cabinclass=economy\&childrenv2=\&inboundaltsenabled=false\&is\_banana\_refferal=true\&outboundaltsenabled=false\&preferdirects=false\&qp\_prevScreen=HOMEPAGE\&ref=home\&rtn=0)
