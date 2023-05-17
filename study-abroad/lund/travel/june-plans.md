@@ -54,7 +54,7 @@ description: type beat
 * [ ] Book Zurich Hotel
 * [ ] Book Flumserberg Hotel
 * [ ] Book Interlakken Hotel
-* [ ] Flight to Switzerland
+* [x] Flight to Switzerland
 * [ ] Get bike tickets
 * [ ] Get toboggan tickets
 * [ ] Book Geneva Hotel
@@ -103,6 +103,14 @@ description: type beat
   * Hostel - [link](https://www.hostelworld.com/pwa/hosteldetails.php/Geneva-Hostel/Geneva/71161?from=2023-05-21\&to=2023-05-22\&guests=1)
 * Day 3
   * Fly to Stockholm
+
+### Debate
+
+#### Option 1
+
+
+
+#### Option 2
 
 ### Sweden
 
