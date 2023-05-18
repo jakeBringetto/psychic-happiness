@@ -51,21 +51,21 @@ description: type beat
 #### To do
 
 * [ ] Get swisspass + mountian pass
-* [ ] Book Zurich Hotel
+* [x] Book Zurich Hotel
 * [ ] Book Flumserberg Hotel
 * [ ] Book Interlakken Hotel
 * [x] Flight to Switzerland
 * [ ] Get bike tickets
 * [ ] Get toboggan tickets
-* [ ] Book Geneva Hotel
+* [ ] Book Geneva Hotel (may not need)
 
 #### Arrival Info
 
 * Arrival: June 15&#x20;
-  * Flight details (tentative):
+  * Flight details:
     * Rome -> Zurich
     * 3:05pm - 4:40pm
-    * \# LX 1737
+    * \# LX 1737&#x20;
     * [link](https://www.google.com/travel/flights/booking?tfs=CBwQAhpKagwIAxIIL20vMDZjNjISCjIwMjMtMDYtMTVyDAgDEggvbS8wODk2NiIgCgNGQ08SCjIwMjMtMDYtMTUaA1pSSCoCTFgyBDE3MzdwAYIBCwj\_\_\_\_\_\_\_\_\_\_\_8BQAFIAZgBAg\&tfu=CmxDalJJY1RGblZVTlZTMkZvVGpoQlFuSm5jVkZDUnkwdExTMHRMUzB0YkcxaVkyUXhPVUZCUVVGQlIxSmlkV1YzUlZCeFJVRkJFZ1pNV0RFM016Y2FDZ2pQQ3hBQUdnTlRSVXM0SEhEbWNRPT0SAggBIggSBkhyckZvYg\&hl=en\&gl=se\&curr=SEK)
 
 #### Zurich
