@@ -57,7 +57,7 @@ description: type beat
 * [x] Flight to Switzerland
 * [ ] Get bike tickets
 * [ ] Get toboggan tickets
-* [ ] Book Geneva Hotel (may not need)
+* [x] Book Geneva Hotel (may not need)
 
 #### Arrival Info
 
