@@ -116,7 +116,13 @@ description: type beat
 
 #### To do
 
-* [ ] Flight to Stockholm - [link](https://www.skyscanner.com/transport/flights/gva/stoc/230622/config/12015-2306220610--32356-0-9547-2306220855?adultsv2=1\&cabinclass=economy\&childrenv2=\&inboundaltsenabled=false\&is\_banana\_refferal=true\&outboundaltsenabled=false\&preferdirects=false\&qp\_prevScreen=HOMEPAGE\&ref=home\&rtn=0)
+* [x] Flight to Stockholm - [link](https://www.skyscanner.com/transport/flights/gva/stoc/230622/config/12015-2306220610--32356-0-9547-2306220855?adultsv2=1\&cabinclass=economy\&childrenv2=\&inboundaltsenabled=false\&is\_banana\_refferal=true\&outboundaltsenabled=false\&preferdirects=false\&qp\_prevScreen=HOMEPAGE\&ref=home\&rtn=0)
+
+<!---->
+
+* flight # EZS1581
+* 12:20pm - 3:00pm
+*
 
 #### Departure Info
 
