@@ -98,19 +98,8 @@ description: type beat
   * Train to Grindelwald
   * Train to Jungfraujoch
 * Day 2
-  * Explore Interlakken
   * Train to Geneva
-  * Hostel - [link](https://www.hostelworld.com/pwa/hosteldetails.php/Geneva-Hostel/Geneva/71161?from=2023-05-21\&to=2023-05-22\&guests=1)
-* Day 3
   * Fly to Stockholm
-
-### Debate
-
-#### Option 1
-
-
-
-#### Option 2
 
 ### Sweden
 
