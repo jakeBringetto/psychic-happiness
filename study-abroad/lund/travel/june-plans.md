@@ -81,11 +81,11 @@ description: type beat
 * Day 0
   * Train Zurich -> Flumserberg June 17
   * Check into Hotel
-    * [link](https://www.tripadvisor.com/Hotel\_Review-g658465-d2549872-Reviews-Hotel\_Mittenwald-Flumserberg\_Canton\_of\_St\_Gallen.html)
+    * Hotel Pizzeria Restaurant
 * Day 1:
   * 8:15 - 4:45 MTB
 * Day 2:
-  * 11:00/12:00 Mountain toboggan&#x20;
+  * 8:15 - 12:00 Bike/Tobaggan&#x20;
   * Train Flumserberg -> Interlakken
 
 #### Interlakken
@@ -93,6 +93,7 @@ description: type beat
 * Day 0
   * Train Flumserberg -> Interlakken
   * Check into Hotel
+    * Adventure Hostel Interlakken
 * Day 1
   * Jungfraujoch and Grindelwald
   * Train to Grindelwald
