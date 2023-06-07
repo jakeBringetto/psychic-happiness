@@ -51,11 +51,31 @@ description: type beat
 #### To do
 
 * [ ] Get swisspass + mountian pass
+
+#### Option 1 - Full Swiss Pass
+
+* Unlimited 4 days
+* Price = 267
+* Jungfraujoch Price = 164
+* Total = 431
+
+#### Option 2 - Half Fare Swiss Pass
+
+* Half price all days
+* Price = 120
+* Jungfraujoch Price = 109
+* Zurich -> Flumserberg = 20
+* Flumserberg -> Interlakken = 50
+* Interlakken -> Geneva = 30
+* Total = 329
+
+<!---->
+
 * [x] Book Zurich Hotel
-* [ ] Book Flumserberg Hotel
-* [ ] Book Interlakken Hotel
+* [x] Book Flumserberg Hotel
+* [x] Book Interlakken Hotel
 * [x] Flight to Switzerland
-* [ ] Get bike tickets
+* [x] Get bike tickets
 * [ ] Get toboggan tickets
 * [x] Book Geneva Hotel (may not need)
 
